@@ -1,6 +1,6 @@
 # LamboiseNet
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O1AZDRd7OCC8JQepjPhPOGT2AgYkkiJG)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11onzhlgyPSX1ZOdy2Ffnan9eGFVZSbwr)
 
 
 *Master Thesis about Change Detection in Satellite Imagery using Deep Learning*
