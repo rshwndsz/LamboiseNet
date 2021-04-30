@@ -1,5 +1,8 @@
 # LamboiseNet
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11onzhlgyPSX1ZOdy2Ffnan9eGFVZSbwr)
+
+
 *Master Thesis about Change Detection in Satellite Imagery using Deep Learning*
 
 Héloïse BAUDHUIN - Antoine LAMBOT
