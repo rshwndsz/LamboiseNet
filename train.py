@@ -1,18 +1,20 @@
-from torch import *
+# from torch import *
+import torch
+import torch.utils.data
+import logging
+from tqdm import tqdm
+import time
+import matplotlib.pyplot as plt
+import datetime
+import argparse
+
+from image import *
+from eval import evaluation
+from loss import compute_loss, print_metrics
 from Models.basicUnet import BasicUnet
 from Models.modularUnet import modularUnet
 from Models.unetPlusPlus import unetPlusPlus
 from Models.lightUnetPlusPlus import lightUnetPlusPlus
-import torch.utils.data
-from image import *
-import logging
-from tqdm import tqdm
-from eval import evaluation
-import time
-import matplotlib.pyplot as plt
-import datetime
-from loss import compute_loss, print_metrics
-import argparse
 
 
 def train_model(model,
